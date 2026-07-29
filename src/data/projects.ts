@@ -127,7 +127,6 @@ export const projects = [
       SiTypescript,
       FaNodeJs,
       SiPostgresql,
-      SiPrisma,
       SiTailwindcss,
       SiGooglegemini,
     ],
