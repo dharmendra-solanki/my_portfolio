@@ -11,13 +11,13 @@ import {
   SiTypescript,
   SiTailwindcss,
   SiExpress,
-  SiMongodb,
   SiMysql,
   SiPostgresql,
   SiPrisma,
   SiNextdotjs,
   SiFastapi,
   SiOpenaigym,
+  SiGooglegemini,
 } from "react-icons/si";
 
 export const projects = [
@@ -100,32 +100,36 @@ export const projects = [
       SiExpress,
       SiPostgresql,
       SiOpenaigym,
+      SiGooglegemini,
     ],
   },
 
   {
     id: 4,
 
-    title: "Finance Tracker",
+    title: "Expenses AI",
 
     category: "Full Stack App",
 
-    image: "/projects/finance.png",
+    image: "/projects/expenses.png",
 
-    logo: "/projects/logo-finance.png",
+    logo: "/projects/logo-expenses.png",
 
     description:
       "Expense tracking application with analytics dashboard, charts, authentication and monthly reports.",
 
-    github: "https://github.com/yourusername/finance",
+    github: "https://github.com/dharmendra-solanki/expense_ai",
 
-    live: "https://finance-demo.com",
+    live: "https://expense-trackers-ai.netlify.app/",
 
     technologies: [
       FaReact,
       SiTypescript,
       FaNodeJs,
-      SiMongodb,
+      SiPostgresql,
+      SiPrisma,
+      SiTailwindcss,
+      SiGooglegemini,
     ],
   },
 
