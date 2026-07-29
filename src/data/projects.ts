@@ -46,7 +46,6 @@ export const projects = [
       FaNodeJs,
       SiExpress,
       SiMysql,
-      SiPrisma,
     ],
   },
 
