@@ -53,7 +53,7 @@ export function Portrait({ compact = false }: { compact?: boolean }) {
         "
       >
         <img
-          src="/images/profile.jpg"
+          src="/images/profile4.png"
           alt="Dharmendra"
           className="aspect-square w-full object-cover"
         />

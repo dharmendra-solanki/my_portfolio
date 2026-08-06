@@ -36,7 +36,7 @@ export function AboutSection() {
               {/* Image */}
 
               <img
-                src="/images/profile2.jpg"
+                src="/images/profile4.png"
                 alt="Dharmendra"
                 className="
                 h-[620px]
@@ -113,7 +113,7 @@ export function AboutSection() {
               >
                 <div className="flex items-center gap-3">
                   <img
-                    src="/images/profile.png"
+                    src="/images/profile4.png"
                     alt=""
                     className="h-12 w-12 rounded-full border-2 border-cyan-400 object-cover"
                   />
